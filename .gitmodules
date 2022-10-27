@@ -4,3 +4,6 @@
 [submodule "meta-clang"]
 	path = meta-clang
 	url = https://github.com/gytechs/meta-clang.git
+[submodule "meta-riscv"]
+	path = meta-riscv
+	url = https://github.com/gytechs/meta-riscv.git

@@ -13,3 +13,6 @@
 [submodule "freedom-u-sdk"]
 	path = freedom-u-sdk
 	url = https://github.com/gytechs/freedom-u-sdk.git
+[submodule "openembedded-core"]
+	path = openembedded-core
+	url = https://github.com/gytechs/openembedded-core.git

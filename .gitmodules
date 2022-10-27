@@ -10,3 +10,6 @@
 [submodule "meta-sifive"]
 	path = meta-sifive
 	url = https://github.com/gytechs/meta-sifive.git
+[submodule "freedom-u-sdk"]
+	path = freedom-u-sdk
+	url = https://github.com/gytechs/freedom-u-sdk.git
